@@ -66,7 +66,7 @@ body {
     display: flex;
   justify-content: center;
   align-items: center;
-  height: 116vh;
+  height: 115vh;
   }
   .image-container, .designation-container{
     text-align: center;
