@@ -354,4 +354,13 @@ body {
       font-size: 2rem;
     }
   }
+.brand{
+    transition: scale 1s ease-in-out;
+    color:#54dcf2;
+  }
+  
+  
+  .brand:hover, .brand:focus{
+    transform: scale(1.2)
+  }
 
